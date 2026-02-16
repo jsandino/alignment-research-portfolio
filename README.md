@@ -8,9 +8,9 @@ I am a senior software engineer transitioning into AI research and alignment. Ov
 
 ## Planned Research Prototypes
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **RAG Evaluation Framework** | A retrieval-augmented generation (RAG) experiment to measure retrieval quality, response fidelity, and hallucination behavior across different embeddings and prompting strategies. | In progress |
+| Project | Description | Current Status |
+|---------|-------------|----------------|
+| [**RAG Evaluation Framework**](https://github.com/jsandino/rag-evaluation-framework?tab=readme-ov-file#rag-evaluation-framework) | A retrieval-augmented generation (RAG) experiment to measure retrieval quality, response fidelity, and hallucination behavior across different embeddings and prompting strategies. | In progress |
 | **Multi-Agent Interpretability Demo** | A prototype exploring agent interactions and decision-making transparency, designed to evaluate model reasoning and emergent behaviors in controlled multi-agent workflows. | Scheduled |
 | **Robustness Benchmark Suite** | A set of experiments to stress-test model performance under distribution shifts, prompt perturbations, and adversarial inputs, with metrics for reliability, calibration, and error analysis. | Scheduled |
 
