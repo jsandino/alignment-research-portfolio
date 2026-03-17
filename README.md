@@ -1,18 +1,36 @@
-# Alignment Research Portfolio
+# AI Systems & Evaluation Portfolio
 
-Welcome! This repository serves as the central hub for my AI alignment research portfolio, highlighting projects on model behavior, robustness, interpretability, and retrieval-augmented workflows.
+Welcome! This repository serves as a central hub for my work on AI system design, evaluation, and reliability, with a focus on large language models (LLMs), retrieval-augmented generation (RAG), and agent-based workflows.
 
 ## About Me
 
-I am a senior software engineer transitioning into AI research and alignment. Over the past year, I have focused on designing and evaluating AI systems, building prototypes that explore model reliability, agentic workflows, and human-in-the-loop evaluation.
+I am a senior software engineer with ~30 years of experience building production systems, currently focused on applied AI and LLM-based architectures.
 
-## Planned Research Prototypes
+Over the past year, I’ve been designing and evaluating AI systems with an emphasis on:
+
+- model reliability and failure modes
+- retrieval and grounding strategies (RAG)
+- evaluation frameworks for LLM behavior
+- agentic and multi-step workflows
+
+This portfolio brings together a set of focused projects that explore how modern AI systems behave under real-world conditions.
+
+## Projects
 
 | Project | Description | Current Status |
 |---------|-------------|----------------|
-| [**RAG Evaluation Framework**](https://github.com/jsandino/rag-evaluation-framework?tab=readme-ov-file#rag-evaluation-framework) | A retrieval-augmented generation (RAG) experiment to measure retrieval quality, response fidelity, and hallucination behavior across different embeddings and prompting strategies. | In progress |
-| **Multi-Agent Interpretability Demo** | A prototype exploring agent interactions and decision-making transparency, designed to evaluate model reasoning and emergent behaviors in controlled multi-agent workflows. | Scheduled |
-| **Robustness Benchmark Suite** | A set of experiments to stress-test model performance under distribution shifts, prompt perturbations, and adversarial inputs, with metrics for reliability, calibration, and error analysis. | Scheduled |
+| [**RAG Evaluation Framework**](https://github.com/jsandino/rag-evaluation-framework?tab=readme-ov-file#rag-evaluation-framework) | A modular framework for evaluating retrieval quality in RAG systems, including embedding strategies, vector search, and retrieval metrics such as accuracy and recall@k. | 🔵 Active |
+| **Multi-Agent Interpretability Demo** | A prototype exploring transparency and decision-making in multi-agent LLM workflows, with a focus on understanding reasoning patterns and system behavior. | 🟡 Planned |
+| **Robustness Benchmark Suite** | A set of experiments to evaluate model performance under distribution shift, prompt perturbations, and adversarial inputs. | 🟡 Planned |
+
+## Focus Areas
+
+Across these projects, I am particularly interested in:
+
+- building **reliable and testable LLM systems**
+- understanding **failure modes and edge cases**
+- designing **evaluation frameworks for AI behavior**
+- exploring **interpretability and system transparency**
 
 ## Contact
 
