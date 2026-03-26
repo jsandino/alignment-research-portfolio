@@ -32,7 +32,7 @@ These projects focus on designing and building production-grade AI systems, incl
 
 | Project | Description | Current&nbsp;Status |
 |---------|-------------|--------|
-| **Production RAG System** | A production-oriented RAG system featuring ingestion and query pipelines, hybrid retrieval, and full observability (metrics, logs, tracing), deployed on Azure. | 🔵 In Progress |
+| [**Production RAG System**](https://github.com/jsandino/production-rag-system?tab=readme-ov-file#production-rag-reference-implemenation) | A production-oriented RAG system featuring ingestion and query pipelines, hybrid retrieval, and full observability (metrics, logs, tracing), deployed on Azure. | 🔵 In Progress |
 
 ## Focus Areas
 
